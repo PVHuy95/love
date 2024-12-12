@@ -34,5 +34,3 @@ function minimizeNotification(button) {
   notification.style.display = 'none'; 
 }
 
-document.addEventListener("DOMContentLoaded", function () {
-});
